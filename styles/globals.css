@@ -1,0 +1,78 @@
+@font-face {
+  font-family: 'Intro';
+  src: url(./Intro/IntroDemo-BlackCAPS.ttf);
+  font-style: normal;
+  font-weight: 900;
+}
+
+ 
+
+
+.KT {
+  position: relative;
+  font-size: 40px;
+  text-align: center;
+  margin-top: 300px;
+  font-family: "Intro";
+}
+.telefon{
+  position: relative;
+  font-size: 16px;
+  margin-left: 450px;
+  color:  #828282;
+  font-family: "Intro";
+
+}
+
+.nomer{
+  position: relative;
+  margin-left: 450px;
+  font-family: "Intro";
+}
+.email{
+  position: relative;
+  font-family: "Intro";
+  margin-left: 52%;
+  margin-top: -103px;
+  font-size: 16px;
+  color:  #828282;
+}
+ .vahEmail{
+  position: relative;
+  font-family: "Intro";
+  margin-left: 52%;
+  font-size: 30px;
+} 
+ .buttonZ{
+  font-family: sans-serif;
+  position: relative;
+  color: white;
+  background-color:  #f5c400; 
+  left: 50%;
+  transform: translate(-50%, 0);
+  border: none;
+  font-size: 20px; 
+  margin-top: 45px;
+  width: 225px;
+  height: 70px;
+  cursor: pointer;
+} 
+.basementSite{
+  position: relative;
+  text-align: center;
+  font-family: sans-serif;
+  background-color: black;
+  color: white;
+  font-size: 17px;
+  margin-top: 15.5%;
+  line-height: 60px;
+}
+
+
+
+
+
+
+
+
+
